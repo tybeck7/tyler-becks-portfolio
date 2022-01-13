@@ -80,3 +80,17 @@ footer {
     padding: 20px 35px;
     background-color: #fff
 }
+
+/*contact*/
+.contact-section{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    color: #fff;
+    font-weight: lighter;
+}
+
+.email-box {
+    text-align: center;
+}
